@@ -6,8 +6,7 @@
 
 | 平台 | 怎么装 |
 |---|---|
-| Windows / macOS / Linux | 官网 <https://desktop.telegram.org> 下载，或用[本站分发](https://7d24hrs.com/contact)的安装包 |
-| Android | 官方提供直接安装的 APK，不需要 Google Play |
+| Windows / macOS / Linux / Android | [本站联络页](https://7d24hrs.com/contact)分发官方同版本安装包（安卓是官方完整 APK，不需要 Google Play）；也可去官网 <https://desktop.telegram.org> 或 Google Play |
 | iOS | 只能 App Store，商店地区问题见[上一篇](https://github.com/vipinus/troubleshooting-guides/blob/main/03-ios-app-store-region.md) |
 
 注册需要一个能收短信的手机号，之后可以设置用户名，别人不需要知道你的号码。
