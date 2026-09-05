@@ -1,4 +1,4 @@
-# 排障与安装指南
+# 排障指南
 
 出问题时按顺序查的清单：连不上、慢、断线，开了回国还是不能看，IPv6 与 DNS 漏网，音乐盒导入了连不上，最后是怎么联系我们。安装类内容已归到 [客户端指南](https://github.com/vipinus/client-guides)。由 [蓝盾](https://7d24hrs.com) 团队维护，中文、通用。
 
@@ -16,11 +16,11 @@
 
 | 篇 |
 |---|
-| [01 · 01 · 连不上、慢、断线的排查清单](01-cannot-connect-slow-drops.md) |
-| [02 · 02 · 开了回国还是不能看，怎么办](02-still-blocked-after-connecting.md) |
-| [03 · 03 · 连上了视频站还提示版权：IPv6 和 DNS 是漏网之鱼](03-ipv6-and-dns-leak.md) |
-| [04 · 04 · 音乐盒（sing-box）导入了却连不上](04-singbox-import-not-connecting.md) |
-| [05 · 05 · 怎么联系我们、怎么不失联](05-how-to-reach-us.md) |
+| [01 · 连不上、慢、断线的排查清单](01-cannot-connect-slow-drops.md) |
+| [02 · 开了回国还是不能看，怎么办](02-still-blocked-after-connecting.md) |
+| [03 · 连上了视频站还提示版权：IPv6 和 DNS 是漏网之鱼](03-ipv6-and-dns-leak.md) |
+| [04 · 音乐盒（sing-box）导入了却连不上](04-singbox-import-not-connecting.md) |
+| [05 · 怎么联系我们、怎么不失联](05-how-to-reach-us.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
