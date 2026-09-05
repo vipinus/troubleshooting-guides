@@ -1,6 +1,8 @@
-# 06 · 连上了视频站还提示版权：IPv6 和 DNS 是漏网之鱼
+# 03 · 连上了视频站还提示版权：IPv6 和 DNS 是漏网之鱼
 
-[02 · 开了回国还是不能看](02-still-blocked-after-connecting.md)的第 1 步过了——出口 IP 查出来是中国大陆——网站却仍说"因版权限制无法播放"。这时九成是设备上还有一条没走线路的路：**IPv6** 或 **DNS**。视频站按它看到的地址判断你在哪，只要有一条漏出去，看到的就还是海外。
+> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/overseas-video
+
+[02 · 开了回国还是不能看](https://github.com/vipinus/troubleshooting-guides/blob/main/02-still-blocked-after-connecting.md)的第 1 步过了——出口 IP 查出来是中国大陆——网站却仍说"因版权限制无法播放"。这时九成是设备上还有一条没走线路的路：**IPv6** 或 **DNS**。视频站按它看到的地址判断你在哪，只要有一条漏出去，看到的就还是海外。
 
 ## 为什么会漏
 

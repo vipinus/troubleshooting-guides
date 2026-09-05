@@ -1,4 +1,6 @@
-# 08 · 怎么联系我们、怎么不失联
+# 05 · 怎么联系我们、怎么不失联
+
+> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/stay-in-touch
 
 [联络页](https://7d24hrs.com/contact)上有三个客服群（QQ、Telegram、Discord）、客服邮箱和人工客服 QQ。三个群里都有 AI 客服「海绵宝宝」24 小时待命，群主和人工客服也在。
 
@@ -8,7 +10,7 @@
 |---|---|---|---|
 | QQ 群 | 人在国内、线路还没通 | 不需要线路就能打开；传文件截图方便 | 要 @海绵宝宝 才答；平台过滤内容，别贴配置和二维码 |
 | Telegram 群 | 海外华人、留学生 | 只露用户名不露手机号；不过滤；AI 不用 @ | 国内要先连线路或开网页代理 |
-| Discord | 海外用户、游戏玩家 | 在频道里直接问，不用 @ | 国内要先连线路；安卓是拆分包要用 SAI 装（见 [04](04-install-telegram-discord.md)） |
+| Discord | 海外用户、游戏玩家 | 在频道里直接问，不用 @ | 国内要先连线路；安卓是拆分包要用 SAI 装（见 [04](https://github.com/vipinus/client-guides/blob/main/07-install-telegram-discord.md)） |
 
 只进一个：国内先进 QQ 群，线路通了再加 Telegram；海外进 Telegram。三个群的 AI 和人工是同一批人。
 

@@ -1,4 +1,6 @@
-# 07 · 音乐盒（sing-box）导入了却连不上
+# 04 · 音乐盒（sing-box）导入了却连不上
+
+> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/singbox-subscription
 
 按报错对号入座。导入方法本身见 [sing-box 订阅链接怎么用](https://github.com/vipinus/client-guides/blob/main/02-singbox-subscription-links.md)。
 
@@ -16,7 +18,7 @@
 - **续费、切换普通/高级**：不用，原配置继续用。
 - **改密码**：旧配置立刻失效，重新扫码。手机丢了、链接外泄就用这个办法收回。
 - **账号到期**：配置返回 401；续费后不用换配置，重新连接即可。
-- **2026 年 9 月以前导入的**：缺拒绝 IPv6 的规则，海外看国内视频会提示版权限制，删掉重导，见 [06](06-ipv6-and-dns-leak.md)。
+- **2026 年 9 月以前导入的**：缺拒绝 IPv6 的规则，海外看国内视频会提示版权限制，删掉重导，见 [06](https://github.com/vipinus/troubleshooting-guides/blob/main/03-ipv6-and-dns-leak.md)。
 
 ## 什么时候找客服
 
