@@ -23,7 +23,7 @@
 | [05 · 验证码收不到与国内手机号](05-sms-code-and-china-phone-number.md) |
 | [06 · 连上了视频站还提示版权：IPv6 和 DNS 是漏网之鱼](06-ipv6-and-dns-leak.md) |
 | [07 · 音乐盒（sing-box）导入了却连不上](07-singbox-import-not-connecting.md) |
-| [08 · 怎么联系我们、怎么不失联：三个客服群怎么选，网站打不开怎么办](08-how-to-reach-us.md) |
+| [08 · 怎么联系我们、怎么不失联](08-how-to-reach-us.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
