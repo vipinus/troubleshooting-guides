@@ -1,6 +1,6 @@
 # 07 · 音乐盒（sing-box）导入了却连不上
 
-按报错对号入座。导入方法本身见 [sing-box 订阅链接怎么用](https://github.com/vipinus/network-guides/blob/main/04-singbox-subscription-links.md)。
+按报错对号入座。导入方法本身见 [sing-box 订阅链接怎么用](https://github.com/vipinus/client-guides/blob/main/02-singbox-subscription-links.md)。
 
 | 表现 | 原因 | 做法 |
 |---|---|---|
