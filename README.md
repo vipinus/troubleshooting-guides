@@ -19,9 +19,9 @@
 | [01 · 连不上、慢、断线的排查清单](01-cannot-connect-slow-drops.md) |
 | [02 · 开了回国还是不能看，怎么办](02-still-blocked-after-connecting.md) |
 | [03 · 连上了视频站还提示版权：IPv6 和 DNS 是漏网之鱼](03-ipv6-and-dns-leak.md) |
-| [04 · 流量伪装（Hiddify）导入了却连不上](04-Hiddify-import-not-connecting.md) |
+| [04 · 流量伪装（Hiddify）导入了却连不上](04-singbox-import-not-connecting.md) |
 | [05 · 怎么联系我们、怎么不失联](05-how-to-reach-us.md) |
-| [06 · 客户端被杀毒软件报毒怎么办](06-antivirus-false-positive.md) |
+| [06 · 客户端被报毒、Mac 提示已损坏怎么办](06-antivirus-false-positive.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 

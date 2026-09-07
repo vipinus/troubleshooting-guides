@@ -2,7 +2,7 @@
 
 > 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/singbox-subscription
 
-按报错对号入座。导入方法本身见 [Hiddify 订阅链接怎么用](https://github.com/vipinus/client-guides/blob/main/02-Hiddify-subscription-links.md)。
+按报错对号入座。导入方法本身见 [Hiddify 订阅链接怎么用](https://github.com/vipinus/client-guides/blob/main/02-singbox-subscription-links.md)。
 
 | 表现 | 原因 | 做法 |
 |---|---|---|
