@@ -1,15 +1,15 @@
-# 04 · 音乐盒（sing-box）导入了却连不上
+# 04 · 流量伪装（Hiddify）导入了却连不上
 
 > 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/singbox-subscription
 
-按报错对号入座。导入方法本身见 [sing-box 订阅链接怎么用](https://github.com/vipinus/client-guides/blob/main/02-singbox-subscription-links.md)。
+按报错对号入座。导入方法本身见 [Hiddify 订阅链接怎么用](https://github.com/vipinus/client-guides/blob/main/02-Hiddify-subscription-links.md)。
 
 | 表现 | 原因 | 做法 |
 |---|---|---|
 | "无法获取订阅"、401 | 账号到期，或者改过密码（改密码会让旧配置立刻失效，这是设计） | 登录网站看有效期；续费或改完密码后重新扫码 |
 | 导入成功，连接超时 | 该地区的地址刚更换，或该入口被运营商干扰 | 客户端里点"更新订阅"拉最新配置；换一个地区，每个地区是独立配置，互不影响 |
 | 连上了但没有网 | 客户端自己的分流规则把流量放到"直连" | 默认出站改成该节点，或删掉自加的规则 |
-| 扫码提示"无效的二维码" | 二维码是给 sing-box 系客户端的；或从别人截图扫的 | Shadowrocket / NekoBox / Stash 用"分享链接"；二维码含你自己的凭据，别人的不能用 |
+| 扫码提示"无效的二维码" | 二维码是给 Hiddify 系客户端的；或从别人截图扫的 | Shadowrocket / NekoBox / Stash 用"分享链接"；二维码含你自己的凭据，别人的不能用 |
 | 速度慢 | 晚高峰跨境拥塞 | 看网站地区列表的红黄绿灯，换绿灯的地区 |
 | 桌面点导入链接没反应 | Windows / Linux 上 sing-box:// 深链不一定能唤起 App | 复制"配置地址"（https:// 开头）在 Hiddify 里粘贴导入 |
 
