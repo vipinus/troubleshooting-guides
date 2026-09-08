@@ -22,6 +22,7 @@
 | [04 · 流量伪装（Hiddify）导入了却连不上](04-singbox-import-not-connecting.md) |
 | [05 · 怎么联系我们、怎么不失联](05-how-to-reach-us.md) |
 | [06 · 客户端被报毒、Mac 提示已损坏怎么办](06-antivirus-false-positive.md) |
+| [07 · 换手机、换电脑、重装系统之后](07-new-phone-new-computer.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
