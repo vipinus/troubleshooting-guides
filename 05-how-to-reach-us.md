@@ -2,7 +2,7 @@
 
 > 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/stay-in-touch
 
-[联络页](https://7d24hrs.com/contact)上有三个客服群（QQ、Telegram、Discord）、客服邮箱和人工客服 QQ。三个群里都有 AI 客服「海绵宝宝」24 小时待命，群主和人工客服也在。
+[联络页](https://7d24hrs.com/contact)上有三个客服群（QQ、Telegram、Discord）、客服邮箱和人工客服 QQ。三个群里都有 AI 客服「海绵宝宝」24 小时待命，群主和人工客服也在。怎么问它答得最准，见 [10](10-ask-ai-support.md)。
 
 ## 三个群怎么选
 

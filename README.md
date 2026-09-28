@@ -25,6 +25,7 @@
 | [07 · 换手机、换电脑、重装系统之后](07-new-phone-new-computer.md) |
 | [08 · 怎么确认真的连上了、现在从哪个地区出去](08-am-i-connected.md) |
 | [09 · 请客服远程帮你看电脑和路由器](09-remote-assist.md) |
+| [10 · 如何有效沟通 AI 客服](10-ask-ai-support.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
@@ -37,7 +38,7 @@
 | [network-guides](https://github.com/vipinus/network-guides) | 原理与选型：回国访问是怎么回事、六种接入方式怎么选、私网和 VPN 的区别、我们和其他 VPN 的区别、识别有风险的 VPN 软件、账号三档与付款、设备不够怎么加 |
 | [client-guides](https://github.com/vipinus/client-guides) | 客户端安装与设置：AnyConnect、Hiddify、网页代理扩展、OpenVPN、私网 Tailscale、iOS 装应用、Telegram 与 Discord、多设备、Hiddify 各平台安装、Dropbox 等软件怎么走代理 |
 | [router-guides](https://github.com/vipinus/router-guides) | 路由器与家庭网络：预装上手、刷固件、分流、电视与老人、绑定换机、解锁国内视频、选型号、固件能做什么、真假分流怎么分辨 |
-| [troubleshooting-guides](https://github.com/vipinus/troubleshooting-guides) | 排障：连不上/慢/断线、开了回国还是不能看、IPv6 与 DNS 漏网、流量伪装导入了连不上、怎么联系我们、怎么确认已连上、远程协助 |
+| [troubleshooting-guides](https://github.com/vipinus/troubleshooting-guides) | 排障：连不上/慢/断线、开了回国还是不能看、IPv6 与 DNS 漏网、流量伪装导入了连不上、怎么联系我们、怎么确认已连上、远程协助、如何有效沟通 AI 客服 |
 
 ## 许可
 
