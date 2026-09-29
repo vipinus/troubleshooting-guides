@@ -36,7 +36,7 @@ RustDesk 免费版的代码签名证书在 2025 年 12 月被证书颁发机构�
 1. 比对 SHA-256：Windows 在 PowerShell 里运行 `Get-FileHash 安装包路径`，macOS / Linux 运行 `shasum -a 256 文件名`，和官方发布页上的校验值逐位对照。**对不上就一定不要装。**
 2. 拖到 [VirusTotal](https://virustotal.com/gui/home/upload) 看一眼：少数启发式引擎报、主流厂商放行是典型误报；大部分主流引擎都报就别装。
 
-完整点击路径与第三方杀软（火绒、360、卡巴斯基等）的排除设置见网站指南和 [06 · 客户端被报毒、Mac 提示已损坏怎么办](06-antivirus-false-positive.md)。
+完整点击路径与第三方杀软（火绒、360、卡巴斯基等）的排除设置见网站指南 [RustDesk 提示证书无法验证怎么办](https://7d24hrs.com/zh-CN/guides/rustdesk-certificate)。
 
 **macOS 额外两项权限**：在「隐私与安全性」的「屏幕录制」和「辅助功能」里都勾上 RustDesk，然后完全退出再打开。只给一项会出现「能看不能动」或整片黑屏。
 

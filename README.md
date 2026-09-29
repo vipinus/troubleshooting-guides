@@ -21,7 +21,7 @@
 | [03 · 连上了视频站还提示版权：IPv6 和 DNS 是漏网之鱼](03-ipv6-and-dns-leak.md) |
 | [04 · 流量伪装（Hiddify）导入了却连不上](04-singbox-import-not-connecting.md) |
 | [05 · 怎么联系我们、怎么不失联](05-how-to-reach-us.md) |
-| [06 · 客户端被报毒、Mac 提示已损坏怎么办](06-antivirus-false-positive.md) |
+| [06 · Mac 提示「已损坏」怎么办](06-antivirus-false-positive.md) |
 | [07 · 换手机、换电脑、重装系统之后](07-new-phone-new-computer.md) |
 | [08 · 怎么确认真的连上了、现在从哪个地区出去](08-am-i-connected.md) |
 | [09 · 请客服远程帮你看电脑和路由器](09-remote-assist.md) |
