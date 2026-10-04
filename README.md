@@ -1,5 +1,7 @@
 # 排障指南
 
+> **本库已于 2026-10-04 合并到 [蓝盾知识库 guides-zh-CN](https://github.com/vipinus/guides-zh-CN/tree/main/troubleshooting)**，以后的更新都在新库；这里的内容不再维护。其他语言：[繁體中文](https://github.com/vipinus/guides-zh-TW/tree/main/troubleshooting) · [English](https://github.com/vipinus/guides-en/tree/main/troubleshooting)
+
 出问题时按顺序查的清单：连不上、慢、断线，开了回国还是不能看，IPv6 与 DNS 漏网，流量伪装导入了连不上，最后是怎么联系我们。安装类内容已归到 [客户端指南](https://github.com/vipinus/client-guides)。由 [蓝盾](https://7d24hrs.com) 团队维护，中文、通用。
 
 ## 长期福利：免费时长，一直有效
