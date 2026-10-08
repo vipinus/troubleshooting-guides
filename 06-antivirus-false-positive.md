@@ -1,6 +1,6 @@
 # 06 · Mac 提示「已损坏」怎么办
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/antivirus-false-positive
+> 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/antivirus-false-positive
 
 结论先说：文件没有坏，也没有被人动过手脚。Mac 上双击 Hiddify 提示「已损坏，无法打开」或「无法验证开发者」，是系统的 Gatekeeper 在拦截**没有 Apple 签名和公证**的应用——我们分发的桌面客户端目前没有购买签名。
 
@@ -68,4 +68,4 @@ iOS 从 App Store 装不存在这个问题；安卓偶尔提示未知来源，�
 
 ---
 
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝盾](https://www.leotun.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

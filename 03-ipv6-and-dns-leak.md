@@ -1,6 +1,6 @@
 # 03 · 连上了视频站还提示版权：IPv6 和 DNS 是漏网之鱼
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/overseas-video
+> 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/overseas-video
 
 [02 · 开了回国还是不能看](https://github.com/vipinus/troubleshooting-guides/blob/main/02-still-blocked-after-connecting.md)的第 1 步过了——出口 IP 查出来是中国大陆——网站却仍说"因版权限制无法播放"。这时九成是设备上还有一条没走线路的路：**IPv6** 或 **DNS**。视频站按它看到的地址判断你在哪，只要有一条漏出去，看到的就还是海外。
 
@@ -34,4 +34,4 @@
 | 用的是网页代理 | 浏览器能看、App 不能 | 看视频要整机隧道，网页代理只管浏览器 |
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝盾](https://www.leotun.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

@@ -16,7 +16,7 @@
 
 网站推荐 [RustDesk](https://rustdesk.com)：开源（AGPL-3.0），代码可以自行审计；会话什么时候开始、什么时候结束都由你自己按下。支持 Windows、macOS、Linux、Android、iOS（iPhone / iPad 只能控制别人，不能被控制）。
 
-从[联络页](https://7d24hrs.com/zh-CN/contact#downloads)「下载中心」→「远程协助」下载，或者官网 rustdesk.com；不要用搜索结果里的第三方下载站。协助的双方都要装。
+从[联络页](https://www.leotun.com/zh-CN/contact#downloads)「下载中心」→「远程协助」下载，或者官网 rustdesk.com；不要用搜索结果里的第三方下载站。协助的双方都要装。
 
 ## 装好之后要授权什么
 
@@ -30,7 +30,7 @@
 
 远程协助走本站自建的 RustDesk 服务器，国内也连得稳。**协助的双方都要导入一次**，两边用同一个服务器才能互相找到：
 
-1. 先登录网站，在[联络页](https://7d24hrs.com/zh-CN/contact#downloads)「下载中心」→「远程协助」→「连接本站服务器」点「复制」。
+1. 先登录网站，在[联络页](https://www.leotun.com/zh-CN/contact#downloads)「下载中心」→「远程协助」→「连接本站服务器」点「复制」。
 2. 电脑上打开 RustDesk「设置 → 网络」，先点「解锁网络设置」，再点「ID/中继服务器」；手机上是「设置 → ID/中继服务器」。
 3. 在弹出的窗口里点右上角的剪贴板图标（手机上点「导入」），配置自动填好，点「确定」。
 
@@ -40,7 +40,7 @@
 
 打开 RustDesk，主界面会显示本机的 ID 和一次性密码。交出去之前先确认三件事：
 
-1. **是你先提出的。** 你在[联络页](https://7d24hrs.com/zh-CN/contact)上的官方群里描述了问题，客服认为需要远程，才进行下一步。我们的客服不会主动找你、要求你装远程软件或索取连接码；谁主动来要，都先到官方群核实。
+1. **是你先提出的。** 你在[联络页](https://www.leotun.com/zh-CN/contact)上的官方群里描述了问题，客服认为需要远程，才进行下一步。我们的客服不会主动找你、要求你装远程软件或索取连接码；谁主动来要，都先到官方群核实。
 2. **只发给官方客服渠道**：联络页上列出的人工客服。群外自称「蓝盾客服」的私聊都不是我们。
 3. **别发到群里。** 群是很多人都能看到的地方，ID 加密码等于把电脑的钥匙贴在门上。
 
@@ -76,11 +76,11 @@
 
 ## 延伸阅读
 
-- [RustDesk 远程协助怎么用（网站指南）](https://7d24hrs.com/zh-CN/guides/rustdesk-certificate)
-- [Mac 提示「已损坏」怎么办](https://7d24hrs.com/zh-CN/guides/antivirus-false-positive)
-- [联络页：客服群、人工客服与邮箱](https://7d24hrs.com/zh-CN/contact)
+- [RustDesk 远程协助怎么用（网站指南）](https://www.leotun.com/zh-CN/guides/rustdesk-certificate)
+- [Mac 提示「已损坏」怎么办](https://www.leotun.com/zh-CN/guides/antivirus-false-positive)
+- [联络页：客服群、人工客服与邮箱](https://www.leotun.com/zh-CN/contact)
 - [05 · 怎么联系我们、怎么不失联](05-how-to-reach-us.md)
 - [01 · 连不上、慢、断线的排查清单](01-cannot-connect-slow-drops.md)
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝盾](https://www.leotun.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

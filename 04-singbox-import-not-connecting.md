@@ -1,6 +1,6 @@
 # 04 · 流量伪装（Hiddify）导入了却连不上
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/singbox-subscription
+> 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/singbox-subscription
 
 按报错对号入座。导入方法本身见 [Hiddify 订阅链接怎么用](https://github.com/vipinus/client-guides/blob/main/02-singbox-subscription-links.md)。
 
@@ -25,4 +25,4 @@
 把三样告诉客服：客户端名字和版本、地区、报错原文或截图。
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝盾](https://www.leotun.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

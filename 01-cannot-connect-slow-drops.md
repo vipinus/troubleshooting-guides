@@ -1,6 +1,6 @@
 # 01 · 连不上、慢、断线的排查清单
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/connect-issues
+> 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/connect-issues
 
 按顺序来，每一步都很快，多数问题在前四步解决。
 
@@ -31,4 +31,4 @@
 上面都试过还不行，把这三样告诉客服：用的接入方式、地区、报错原文或截图。有这三样，多数问题一次就能定位。
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 有问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝盾](https://www.leotun.com) 团队整理 · 有问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

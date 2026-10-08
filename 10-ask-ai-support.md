@@ -1,6 +1,6 @@
 # 10 · 如何有效沟通 AI 客服
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/ai-support
+> 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/ai-support
 
 AI 客服「海绵宝宝」24 小时在 Telegram、QQ、Discord 三个群里回答（入口见 [05](05-how-to-reach-us.md)）。它答得准不准，主要看**第一句话有没有把情况说全**。说全了，一次就能给步骤；只说「连不上」，它只能先反问。**有报错直接发截图，用哪种语言问都行。**
 
@@ -51,4 +51,4 @@ AI 客服「海绵宝宝」24 小时在 Telegram、QQ、Discord 三个群里回�
 - 客服不会私聊要密码、验证码或付款，也不会主动要你装远程控制软件。
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝盾](https://www.leotun.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
