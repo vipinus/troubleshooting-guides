@@ -1,47 +1,11 @@
-# 排障指南
+# 排障指南（已合并到新知识库）
 
-> **本库已于 2026-10-04 合并到 [蓝盾知识库 guides-zh-CN](https://github.com/vipinus/guides-zh-CN/tree/main/troubleshooting)**，以后的更新都在新库；这里的内容不再维护。其他语言：[繁體中文](https://github.com/vipinus/guides-zh-TW/tree/main/troubleshooting) · [English](https://github.com/vipinus/guides-en/tree/main/troubleshooting)
+本库的内容已于 2026-10-04 合并到按语言划分的新知识库，以后的更新都在新库，这里不再维护。本库里每篇文章的原路径都留了一页指引，指向新库里对应的那一篇。
 
-出问题时按顺序查的清单：连不上、慢、断线，开了回国还是不能看，IPv6 与 DNS 漏网，流量伪装导入了连不上，最后是怎么联系我们。安装类内容已归到 [客户端指南](https://github.com/vipinus/client-guides)。由 [蓝盾](https://www.leotun.com) 团队维护，中文、通用。
+- 简体中文：https://github.com/vipinus/guides-zh-CN/tree/main/troubleshooting
+- 繁體中文：https://github.com/vipinus/guides-zh-TW/tree/main/troubleshooting
+- English: https://github.com/vipinus/guides-en/tree/main/troubleshooting
 
-## 长期福利：免费时长，一直有效
+新库把回国访问、出海访问、原理与选型、客户端安装、路由器、排障六类内容放在一起，按语言各一个仓库：[guides-zh-CN](https://github.com/vipinus/guides-zh-CN) · [guides-zh-TW](https://github.com/vipinus/guides-zh-TW) · [guides-en](https://github.com/vipinus/guides-en)。
 
-| 怎么领 | 得到什么 |
-|---|---|
-| 注册后领免费试用 | 24 小时全功能试用，不要信用卡 |
-| 邀请朋友注册并首次付费 | 你的有效期 +30 天（家庭档 +15 天、企业档 +7.5 天），每位朋友一次，人数不限 |
-| 过期用户回归 | 到期后自动发一封带免登录领取按钮的邮件，7 天内有效、只能点一次 |
-
-网站：<https://www.leotun.com> · 进群问客服：<https://t.me/+NWJN_9yITj9kOWFh>
-
-## 目录
-
-| 篇 |
-|---|
-| [01 · 连不上、慢、断线的排查清单](01-cannot-connect-slow-drops.md) |
-| [02 · 开了回国还是不能看，怎么办](02-still-blocked-after-connecting.md) |
-| [03 · 连上了视频站还提示版权：IPv6 和 DNS 是漏网之鱼](03-ipv6-and-dns-leak.md) |
-| [04 · 流量伪装（Hiddify）导入了却连不上](04-singbox-import-not-connecting.md) |
-| [05 · 怎么联系我们、怎么不失联](05-how-to-reach-us.md) |
-| [06 · Mac 提示「已损坏」怎么办](06-antivirus-false-positive.md) |
-| [07 · 换手机、换电脑、重装系统之后](07-new-phone-new-computer.md) |
-| [08 · 怎么确认真的连上了、现在从哪个地区出去](08-am-i-connected.md) |
-| [09 · 请客服远程帮你看电脑和路由器](09-remote-assist.md) |
-| [10 · 如何有效沟通 AI 客服](10-ask-ai-support.md) |
-
-每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
-
-## 系列仓库
-
-| 仓库 | 内容 |
-|---|---|
-| [huiguo-guides](https://github.com/vipinus/huiguo-guides) | 回国访问场景：看国内视频、政务网站、网银支付、音乐、游戏、看家里监控、验证码与国内手机号、留学生、出差旅行、线路怎么选、免费还是付费 |
-| [chuhai-guides](https://github.com/vipinus/chuhai-guides) | 出海访问场景：哪些服务要海外 IP、AnyConnect 在中国、选地区、公司电脑、Linux 与命令行、NAS 走线路 |
-| [network-guides](https://github.com/vipinus/network-guides) | 原理与选型：回国访问是怎么回事、六种接入方式怎么选、私网和 VPN 的区别、我们和其他 VPN 的区别、识别有风险的 VPN 软件、账号三档与付款、设备不够怎么加 |
-| [client-guides](https://github.com/vipinus/client-guides) | 客户端安装与设置：AnyConnect、Hiddify、网页代理扩展、OpenVPN、私网 Tailscale、iOS 装应用、Telegram 与 Discord、多设备、Hiddify 各平台安装、Dropbox 等软件怎么走代理 |
-| [router-guides](https://github.com/vipinus/router-guides) | 路由器与家庭网络：预装上手、刷固件、分流、电视与老人、绑定换机、解锁国内视频、选型号、固件能做什么、真假分流怎么分辨 |
-| [troubleshooting-guides](https://github.com/vipinus/troubleshooting-guides) | 排障：连不上/慢/断线、开了回国还是不能看、IPv6 与 DNS 漏网、流量伪装导入了连不上、怎么联系我们、怎么确认已连上、远程协助、如何有效沟通 AI 客服 |
-
-## 许可
-
-文字内容采用 [CC BY 4.0](LICENSE)，转载请注明来源并保留链接。
+由 [雷腾（LeoTun）](https://www.leotun.com/zh-CN?utm_source=github&utm_content=troubleshooting-guides) 团队整理。文章以 CC BY 4.0 许可发布，见 [LICENSE](LICENSE)。

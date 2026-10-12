@@ -1,18 +1,7 @@
 # 02 · 开了回国还是不能看，怎么办
 
-按顺序排查，每步一分钟。
+这篇文章已合并到新的知识库，这里不再更新。最新版本：
 
-1. **确认出口 IP 真的变了。** 用浏览器打开一个显示 IP 归属地的网站，看是不是中国大陆。不是，说明线路没生效，重新连接。
-2. **IPv6 和 DNS 泄漏。** 出口 IP 对了但网站仍判定境外，多半是设备的 IPv6 或本机 DNS 绕过了线路。这是最常见的一种，单独写了一篇：[06 · IPv6 和 DNS 是漏网之鱼](https://github.com/vipinus/troubleshooting-guides/blob/main/03-ipv6-and-dns-leak.md)。
-3. **App 缓存。** 视频和音乐 App 会缓存地区判定结果。彻底退出 App 再打开，不行就清除 App 数据。
-4. **App 版本。** 装的是海外版（iQIYI、WeTV），内容库不同，换国内版。
-5. **账号注册地。** 少数平台按账号注册时的地区限制内容，和当前 IP 无关。这种只能换账号。
-6. **系统地区和语言。** 部分 App 读系统地区。把系统地区改成中国再试。
-7. **入口地区。** 某些内容对不同省份的 IP 也有差别，换一个入口再试。
-
-## 仍然不行
-
-把这四样告诉客服：目标网站或 App、报错原文、当前出口 IP 归属地、用的接入方式。有这些，一次就能定位。
-
----
-由 [蓝盾](https://www.leotun.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+- 简体中文：https://github.com/vipinus/guides-zh-CN/blob/main/troubleshooting/02-still-blocked-after-connecting.md
+- 繁體中文：https://github.com/vipinus/guides-zh-TW/blob/main/troubleshooting/02-still-blocked-after-connecting.md
+- English: https://github.com/vipinus/guides-en/blob/main/troubleshooting/02-still-blocked-after-connecting.md

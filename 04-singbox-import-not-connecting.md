@@ -1,28 +1,7 @@
 # 04 · 流量伪装（Hiddify）导入了却连不上
 
-> 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/singbox-subscription
+这篇文章已合并到新的知识库，这里不再更新。最新版本：
 
-按报错对号入座。导入方法本身见 [Hiddify 订阅链接怎么用](https://github.com/vipinus/client-guides/blob/main/02-singbox-subscription-links.md)。
-
-| 表现 | 原因 | 做法 |
-|---|---|---|
-| "无法获取订阅"、401 | 账号到期，或者改过密码（改密码会让旧配置立刻失效，这是设计） | 登录网站看有效期；续费或改完密码后重新扫码 |
-| 导入成功，连接超时 | 该地区的地址刚更换，或该入口被运营商干扰 | 客户端里点"更新订阅"拉最新配置；换一个地区，每个地区是独立配置，互不影响 |
-| 连上了但没有网 | 客户端自己的分流规则把流量放到"直连" | 默认出站改成该节点，或删掉自加的规则 |
-| 扫码提示"无效的二维码" | 二维码是给 Hiddify 系客户端的；或从别人截图扫的 | Shadowrocket / NekoBox / Stash 用"分享链接"；二维码含你自己的凭据，别人的不能用 |
-| 速度慢 | 晚高峰跨境拥塞 | 看网站地区列表的红黄绿灯，换绿灯的地区 |
-| 桌面点导入链接没反应 | Windows / Linux 上 sing-box:// 深链不一定能唤起 App | 复制"配置地址"（https:// 开头）在 Hiddify 里粘贴导入 |
-
-## 续费、切档、改密码后要不要重新导入
-
-- **续费、切换档位（个人/家庭/企业）**：不用，原配置继续用。
-- **改密码**：旧配置立刻失效，重新扫码。手机丢了、链接外泄就用这个办法收回。
-- **账号到期**：配置返回 401；续费后不用换配置，重新连接即可。
-- **2026 年 9 月以前导入的**：缺拒绝 IPv6 的规则，海外看国内视频会提示版权限制，删掉重导，见 [06](https://github.com/vipinus/troubleshooting-guides/blob/main/03-ipv6-and-dns-leak.md)。
-
-## 什么时候找客服
-
-把三样告诉客服：客户端名字和版本、地区、报错原文或截图。
-
----
-由 [蓝盾](https://www.leotun.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+- 简体中文：https://github.com/vipinus/guides-zh-CN/blob/main/troubleshooting/04-singbox-import-not-connecting.md
+- 繁體中文：https://github.com/vipinus/guides-zh-TW/blob/main/troubleshooting/04-singbox-import-not-connecting.md
+- English: https://github.com/vipinus/guides-en/blob/main/troubleshooting/04-singbox-import-not-connecting.md
